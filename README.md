@@ -63,8 +63,6 @@
 
 ⭐ sql-practice
 
-⭐ mission-ai-ml-2030
-
 ⭐ dsa-python
 
 ⭐ machine-learning
