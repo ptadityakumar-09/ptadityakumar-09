@@ -57,30 +57,6 @@
 
 ---
 
-# 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kumar-aditya-09&show_icons=true)
-
----
-
-# 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=kumar-aditya-09)
-
----
-
-# 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=kumar-aditya-09)
-
----
-
-# 📈 Contribution Graph
-
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=kumar-aditya-09)
-
----
-
 # 📂 Featured Repositories
 
 ⭐ python-practice
