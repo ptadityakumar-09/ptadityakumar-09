@@ -1,16 +1,116 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Aditya Kumar</h1>
 
-<!--
-**ptadityakumar-09/ptadityakumar-09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">B.Tech CSE (AI & ML) Student | Future AI Engineer | Mission 2030 🚀</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 🎓 B.Tech CSE (AI & ML)
+- 🇮🇳 From Agra, Uttar Pradesh
+- 🐍 Currently learning Python
+- 💾 Learning SQL & Git
+- 🤖 Passionate about Artificial Intelligence & Machine Learning
+- 🎯 Goal: Become a World-Class AI Engineer by 2030
+
+---
+
+# 🎯 Mission 2030
+
+- ✅ Master Python
+- ✅ Master DSA
+- ✅ Learn SQL
+- ⏳ Learn Machine Learning
+- ⏳ Learn Deep Learning
+- ⏳ Build 50+ Projects
+- ⏳ Crack Top Product Company
+
+---
+
+# 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+
+---
+
+# 📚 Currently Learning
+
+- Python
+- SQL
+- Git & GitHub
+
+---
+
+# 🐍 Learning Progress
+
+- 🟩 Python Fundamentals
+- ⬜ SQL
+- ⬜ DSA
+- ⬜ Machine Learning
+- ⬜ Deep Learning
+
+---
+
+# 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kumar-aditya-09&show_icons=true)
+
+---
+
+# 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=kumar-aditya-09)
+
+---
+
+# 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=kumar-aditya-09)
+
+---
+
+# 📈 Contribution Graph
+
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=kumar-aditya-09)
+
+---
+
+# 📂 Featured Repositories
+
+⭐ python-practice
+
+⭐ sql-practice
+
+⭐ mission-ai-ml-2030
+
+⭐ dsa-python
+
+⭐ machine-learning
+
+---
+
+# 📫 Contact
+
+📧 Email
+
+pt.adityakumar09@gmail.com
+
+🐙 GitHub
+
+https://github.com/kumar-aditya-09
+
+---
+
+# 💡 Quote
+
+> "Discipline beats motivation. Consistency builds mastery."
+
+---
+
+⭐ Thanks for visiting my profile.
