@@ -77,7 +77,7 @@ pt.adityakumar09@gmail.com
 
 🐙 GitHub
 
-https://github.com/kumar-aditya-09
+https://github.com/ptadityakumar-09
 
 ---
 
